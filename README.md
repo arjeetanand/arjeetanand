@@ -7,7 +7,7 @@
 👩🏻‍💻 I’m interested in Data Analytics, Web development, and Machine Learning.
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/arjeetanand) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arjeetanand) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arjeetanand) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@arjeetanand) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/arjeeet) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCpuGGVs4YhVbUde7_neTRlg) [![LinkTree](https://img.shields.io/badge/LinkTree-%20-green)](https://linktr.ee/arjeetanand)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arjeet.anand) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arjeetanand) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@arjeetanand) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/arjeeet) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCpuGGVs4YhVbUde7_neTRlg) [![LinkTree](https://img.shields.io/badge/LinkTree-%20-green)](https://linktr.ee/arjeetanand)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-491%20hrs%2036%20mins-blue)
@@ -27,6 +27,6 @@
 
 ---
 
-[![Linkedin: arjeetanand](https://img.shields.io/badge/-Shreyans-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arjeetanand/)](https://www.linkedin.com/in/arjeetanand/)
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=arjeetanand.arjeetanand)
 [![GitHub arjeetanand](https://img.shields.io/github/followers/arjeetanand?label=followers&logo=Github)](https://github.com/arjeetanand)
