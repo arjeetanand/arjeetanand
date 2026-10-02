@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://github.com/arjeetanand/arjeetanand/blob/main/assets/agent-run.mp4">
-    <img src="assets/agent-run.gif" width="100%" alt="A looping agent workflow: retrieve, plan, call an MCP tool, verify sources, and ship a grounded answer." />
+  <a href="https://github.com/arjeetanand/arjeetanand/blob/main/assets/connected-systems.mp4">
+    <img src="assets/connected-systems.gif" width="100%" alt="Apps, APIs, and data connect to an AI hub that powers insights, workflows, and automation." />
   </a>
 </p>
-<p align="center"><sub>Click the animation to open the full MP4 ↗</sub></p>
+<p align="center"><sub>Click the animation to watch the full MP4 ↗</sub></p>
 
 <p align="center">
-  <img alt="Connecting AI models to enterprise data; building hybrid RAG and agent systems; turning AI into useful products." src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;pause=1200&amp;color=C74634&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=38&amp;lines=Connecting+AI+models+to+enterprise+data;Building+hybrid+RAG+and+agent+systems;Turning+AI+into+useful+products" />
+  <img alt="Connecting enterprise systems, data, and AI to build useful automation." src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;pause=1200&amp;color=C74634&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=38&amp;lines=Connecting+systems%2C+data+and+AI;Building+intelligent+automation+for+real+work;From+machine+learning+to+integrated+AI+products" />
 </p>
 
 <p align="center">
@@ -16,11 +16,11 @@
   <a href="https://x.com/arjeeet"><img alt="X — follow" src="https://img.shields.io/badge/X-Follow-111111?style=for-the-badge&amp;logo=x&amp;logoColor=white" /></a>
 </p>
 
-<p align="center"><strong>GenAI</strong> · <strong>Hybrid RAG</strong> · <strong>Agent systems</strong> · <strong>Data engineering</strong></p>
+<p align="center"><strong>AI / ML</strong> · <strong>Systems integration</strong> · <strong>Data platforms</strong> · <strong>Intelligent automation</strong></p>
 
 ## What I build
 
-I’m an **AI/ML Engineer at Oracle**. I build practical AI and data systems—from hybrid retrieval and MCP-enabled tools to streaming analytics and developer workflows. I care about making the whole system useful, governed, and understandable, not just getting a model response.
+I’m an **AI/ML Engineer at Oracle**, working across machine learning, GenAI, enterprise integration, and data engineering. I build end-to-end systems that connect applications, data, and models, then turn that foundation into useful automation, tools, and products. My work spans ML and streaming pipelines, agent systems, APIs, and developer workflows.
 
 ## Highlights
 
@@ -74,9 +74,10 @@ I’m an **AI/ML Engineer at Oracle**. I build practical AI and data systems—f
 
 ## Toolbox
 
-**AI:** GenAI · RAG · MCP · A2A<br />
-**Engineering:** Python · SQL · Kafka · FastAPI<br />
-**Oracle:** Autonomous AI Database 26ai · OCI · Oracle Integration Cloud
+**AI &amp; ML:** Machine learning · GenAI · RAG · Agents · MCP · A2A<br />
+**Integration &amp; automation:** Oracle Integration Cloud · APIs · workflow automation<br />
+**Data &amp; engineering:** Python · SQL · Kafka · FastAPI · ClickHouse<br />
+**Oracle platforms:** Autonomous AI Database 26ai · OCI
 
 ## Background
 
