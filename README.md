@@ -1,6 +1,6 @@
 # Arjeet Anand
 
-**Associate Consultant at Oracle | AI/ML Engineer**
+**AI/ML Engineer at Oracle**
 
 I build AI and data applications, from retrieval and agent workflows to event-driven systems. I’m especially interested in practical GenAI, secure agent tooling, and data engineering.
 
