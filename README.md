@@ -1,32 +1,80 @@
-# Arjeet Anand
+<p align="center">
+  <img src="assets/profile-banner.svg" width="100%" alt="Arjeet Anand, AI/ML Engineer at Oracle, building GenAI, hybrid RAG, agent systems, and data applications." />
+</p>
 
-**AI/ML Engineer at Oracle**
+<p align="center">
+  <img alt="Connecting AI models to enterprise data; building hybrid RAG and agent systems; turning AI into useful products." src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;pause=1200&amp;color=C74634&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=38&amp;lines=Connecting+AI+models+to+enterprise+data;Building+hybrid+RAG+and+agent+systems;Turning+AI+into+useful+products" />
+</p>
 
-I build AI and data applications, from retrieval and agent workflows to event-driven systems. I’m especially interested in practical GenAI, secure agent tooling, and data engineering.
+<p align="center">
+  <a href="https://www.linkedin.com/in/arjeetanand/"><img alt="LinkedIn — connect" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
+  <a href="https://blogs.oracle.com/authors/arjeetanand/"><img alt="Oracle Blogs — read my work" src="https://img.shields.io/badge/Oracle_Blogs-Read_my_work-C74634?style=for-the-badge&amp;logo=oracle&amp;logoColor=white" /></a>
+  <a href="https://github.com/arjeetanand?tab=repositories"><img alt="GitHub — explore projects" src="https://img.shields.io/badge/Projects-Explore-26334D?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
+  <a href="https://x.com/arjeeet"><img alt="X — follow" src="https://img.shields.io/badge/X-Follow-111111?style=for-the-badge&amp;logo=x&amp;logoColor=white" /></a>
+</p>
+
+<p align="center"><strong>GenAI</strong> · <strong>Hybrid RAG</strong> · <strong>Agent systems</strong> · <strong>Data engineering</strong></p>
+
+## What I build
+
+I’m an **AI/ML Engineer at Oracle**. I build practical AI and data systems—from hybrid retrieval and MCP-enabled tools to streaming analytics and developer workflows. I care about making the whole system useful, governed, and understandable, not just getting a model response.
 
 ## Highlights
 
-- **Buildathon winner:** Razorpay × Replit Buildathon (Sprint Saturday, Bengaluru, September 2026). [Event details](https://luma.com/z9i53l4x)
-- **Oracle publication:** Co-authored [From Vector Index to MCP Tool: Building Hybrid RAG in Oracle Autonomous AI Database 26ai](https://blogs.oracle.com/ai-and-datascience/mcp-hybrid-rag-in-oracle-26ai), on building a database-native Hybrid RAG pipeline and exposing it through MCP. [LinkedIn post](https://www.linkedin.com/posts/arjeetanand_from-vector-index-to-mcp-tool-from-vector-activity-7467621510829182976-lHSe) · [More Oracle articles](https://blogs.oracle.com/authors/arjeetanand/)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>01 / BUILDER AWARD</sub><br />
+      <strong>Razorpay × Replit Buildathon</strong><br />
+      Winner · Sprint Saturday · Bengaluru · Sep 2026<br /><br />
+      <a href="https://luma.com/z9i53l4x">Event details ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <sub>02 / ORACLE AI &amp; DATA SCIENCE</sub><br />
+      <strong>Co-author · <a href="https://blogs.oracle.com/ai-and-datascience/mcp-hybrid-rag-in-oracle-26ai">From Vector Index to MCP Tool</a></strong><br />
+      Building Hybrid RAG in Oracle Autonomous AI Database 26ai.<br /><br />
+      <a href="https://blogs.oracle.com/ai-and-datascience/mcp-hybrid-rag-in-oracle-26ai">Read the article ↗</a> · <a href="https://www.linkedin.com/posts/arjeetanand_from-vector-index-to-mcp-tool-from-vector-activity-7467621510829182976-lHSe">LinkedIn post ↗</a>
+    </td>
+  </tr>
+</table>
 
-## Projects
+## Featured builds
 
-[Browse all repositories](https://github.com/arjeetanand?tab=repositories)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/arjeetanand/onboard-repo-copilot">01 / Onboard Repo Copilot</a></strong><br />
+      Evidence-backed repository onboarding with cited Q&amp;A and human handoff.<br /><br />
+      <sub>Python · FastAPI · React · SQLite</sub>
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/arjeetanand/DataMind">02 / DataMind</a></strong><br />
+      Retail analytics across streaming data, forecasting, RAG, and agent workflows.<br /><br />
+      <sub>Kafka · ClickHouse · DuckDB · Redis</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/arjeetanand/mcp-security-gateway">03 / MCP Security Gateway</a></strong><br />
+      Policy-gated MCP tools with role-based access, approvals, and audit logs.<br /><br />
+      <sub>Python · FastAPI · MCP</sub>
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/arjeetanand/oic-utility">04 / OIC One-Click Debug Controls</a></strong><br />
+      Guarded browser workflows for Oracle Integration Cloud debugging.<br /><br />
+      <sub>JavaScript · Browser Extension · Oracle Integration Cloud</sub>
+    </td>
+  </tr>
+</table>
 
-- [Onboard Repo Copilot](https://github.com/arjeetanand/onboard-repo-copilot) — Evidence-backed codebase onboarding with cited Q&A and human handoff.
-- [OIC One-Click Debug Controls](https://github.com/arjeetanand/oic-utility) — Browser extension for guarded debugging workflows in Oracle Integration Cloud.
-- [DataMind](https://github.com/arjeetanand/DataMind) — Retail analytics combining streaming data, forecasting, RAG, and multi-agent workflows.
-- [MCP Security Gateway](https://github.com/arjeetanand/mcp-security-gateway) — Role-based access, human approvals, and audit logging for MCP tools.
-- [VectorForge](https://github.com/arjeetanand/vectorforge-raster-to-svg) — Computer-vision app that turns raster artwork into editable SVG paths.
+<p align="center"><a href="https://github.com/arjeetanand?tab=repositories"><strong>Explore all repositories →</strong></a></p>
 
-## Focus
+## Toolbox
 
-Generative AI · RAG · AI agents (MCP, A2A) · computer vision · Python · data engineering · Oracle Autonomous AI Database 26ai · OCI
+**AI:** GenAI · RAG · MCP · A2A<br />
+**Engineering:** Python · SQL · Kafka · FastAPI<br />
+**Oracle:** Autonomous AI Database 26ai · OCI · Oracle Integration Cloud
 
-## Education
+## Background
 
-B.Tech. in Electronics and Communication Engineering, Vellore Institute of Technology (2020–2024)
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/arjeetanand/) · [X](https://x.com/arjeeet) · [Oracle author page](https://blogs.oracle.com/authors/arjeetanand/)
+B.Tech. in Electronics and Communication Engineering · Vellore Institute of Technology · 2020–2024
