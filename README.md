@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" width="100%" alt="Arjeet Anand, AI/ML Engineer at Oracle, building GenAI, hybrid RAG, agent systems, and data applications." />
+  <a href="https://github.com/arjeetanand/arjeetanand/blob/main/assets/agent-run.mp4">
+    <img src="assets/agent-run.gif" width="100%" alt="A looping agent workflow: retrieve, plan, call an MCP tool, verify sources, and ship a grounded answer." />
+  </a>
 </p>
+<p align="center"><sub>Click the animation to open the full MP4 ↗</sub></p>
 
 <p align="center">
   <img alt="Connecting AI models to enterprise data; building hybrid RAG and agent systems; turning AI into useful products." src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;pause=1200&amp;color=C74634&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=38&amp;lines=Connecting+AI+models+to+enterprise+data;Building+hybrid+RAG+and+agent+systems;Turning+AI+into+useful+products" />
