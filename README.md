@@ -20,7 +20,7 @@
 
 ## What I build
 
-I’m an **AI/ML Engineer at Oracle**, working across machine learning, GenAI, enterprise integration, and data engineering. I build end-to-end systems that connect applications, data, and models, then turn that foundation into useful automation, tools, and products. My work spans ML and streaming pipelines, agent systems, APIs, and developer workflows.
+I’m an **AI/ML Engineer at Oracle**. I build intelligent systems that connect applications, data, and models—and turn that foundation into useful, dependable automation. My work spans machine learning, GenAI, enterprise integration, data engineering, agents, APIs, and developer tools.
 
 ## Highlights
 
@@ -63,9 +63,9 @@ I’m an **AI/ML Engineer at Oracle**, working across machine learning, GenAI, e
       <sub>Python · FastAPI · MCP</sub>
     </td>
     <td width="50%" valign="top">
-      <strong><a href="https://github.com/arjeetanand/oic-utility">04 / OIC One-Click Debug Controls</a></strong><br />
-      Guarded browser workflows for Oracle Integration Cloud debugging.<br /><br />
-      <sub>JavaScript · Browser Extension · Oracle Integration Cloud</sub>
+      <strong><a href="https://github.com/arjeetanand/artha-shopping-agent">04 / Artha Shopping Agent</a></strong><br />
+      Source-linked product research with permissioned location and checkout adapters.<br /><br />
+      <sub>Python · AI agents · Shopping workflows</sub>
     </td>
   </tr>
 </table>
