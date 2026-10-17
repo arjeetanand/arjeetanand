@@ -1,16 +1,8 @@
-<h1 align="center">Hi, I’m Arjeet Anand 👋</h1>
-<p align="center"><strong>AI/ML Engineer @ Oracle · Connecting systems. Building useful AI.</strong></p>
+<h1 align="center">
+  <img src="assets/profile-hero.png" width="100%" alt="Arjeet Anand — AI/ML Engineer at Oracle. Connecting systems. Building useful AI. Illustrated avatar with curly hair, clear glasses, a beard, and a black polo." />
+</h1>
 
-<p align="center">
-  <a href="https://github.com/arjeetanand/arjeetanand/blob/main/assets/connected-systems.mp4">
-    <img src="assets/connected-systems.gif" width="100%" alt="Apps, APIs, and data connect to an AI hub that powers insights, workflows, and automation." />
-  </a>
-</p>
-<p align="center"><sub>Click the animation to watch the full MP4 ↗</sub></p>
-
-<p align="center">
-  <img alt="Connecting enterprise systems, data, and AI to build useful automation." src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;pause=1200&amp;color=C74634&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=38&amp;lines=Connecting+systems%2C+data+and+AI;Building+intelligent+automation+for+real+work;From+machine+learning+to+integrated+AI+products" />
-</p>
+<p align="center"><strong>Applied AI. Connected systems. A little arcade energy.</strong></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arjeetanand/"><img alt="LinkedIn — connect" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
@@ -19,53 +11,39 @@
   <a href="https://x.com/arjeeet"><img alt="X — follow" src="https://img.shields.io/badge/X-Follow-111111?style=for-the-badge&amp;logo=x&amp;logoColor=white" /></a>
 </p>
 
-<p align="center"><strong>AI / ML</strong> · <strong>Systems integration</strong> · <strong>Data platforms</strong> · <strong>Intelligent automation</strong></p>
+<p align="center">
+  <a href="#the-builder-behind-the-avatar">About</a> &nbsp; / &nbsp;
+  <a href="#selected-builds">Projects</a> &nbsp; / &nbsp;
+  <a href="#highlights">Highlights</a> &nbsp; / &nbsp;
+  <a href="#contribution-arcade">Arcade</a>
+</p>
 
-## From connected systems to useful AI
+## The builder behind the avatar
 
-I’m an **AI/ML Engineer at Oracle**, building across GenAI, enterprise integration, data engineering, and developer tools. I like turning complex systems into products people can actually use: ask a document a question, compare prompts across models, understand a codebase, or explore a city in 3D.
+Hey, I’m **Arjeet** 👋 — an **AI/ML Engineer at Oracle**. I connect applications, data, and models, then turn that foundation into tools people can use. My projects range from voice conversations with documents to prompt evaluation, developer tooling, and 3D city simulations.
 
-My approach: **keep the source visible, make the workflow clear, and give people control.**
+> **Keep the source visible. Make the workflow clear. Give people control.**
 
-## On the workbench · October 2026
-
-- **[Pitchroom AI](https://github.com/arjeetanand/PitchVoiceAI)** — voice conversations with decks and documents, with answers linked to the exact slide, page, or section. Latest repository update: **10 October**.
-- **[PromptMesh](https://github.com/arjeetanand/PromptMesh)** — compare prompt versions across LLMs, generate test cases, and iterate with evaluation feedback. Latest repository update: **3 October**.
-- **[Bengaluru Traffic Digital Twin](https://github.com/arjeetanand/bengaluru-traffic-digital-twin)** — explore the Marathahalli corridor in 3D and compare modelled traffic scenarios. Latest repository update: **19 September**.
-
-## Highlights
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <sub>01 / BUILDER AWARD</sub><br />
-      <strong>Razorpay × Replit Buildathon</strong><br />
-      Winner · Sprint Saturday · Bengaluru · Sep 2026<br /><br />
-      <a href="https://luma.com/z9i53l4x">Event details ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <sub>02 / ORACLE AI &amp; DATA SCIENCE</sub><br />
-      <strong>Co-author · <a href="https://blogs.oracle.com/ai-and-datascience/mcp-hybrid-rag-in-oracle-26ai">From Vector Index to MCP Tool</a></strong><br />
-      Building Hybrid RAG in Oracle Autonomous AI Database 26ai.<br /><br />
-      <a href="https://blogs.oracle.com/ai-and-datascience/mcp-hybrid-rag-in-oracle-26ai">Read the article ↗</a> · <a href="https://www.linkedin.com/posts/arjeetanand_from-vector-index-to-mcp-tool-from-vector-activity-7467621510829182976-lHSe">LinkedIn post ↗</a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/build-flow.svg" width="100%" alt="My approach: connect apps, documents, and data; add models, agents, and RAG; build useful tools, workflows, and products." />
+</p>
 
 ## Selected builds
+
+**Voice AI · LLM evaluation · Spatial simulation · Developer tools**
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <sub>01 / VOICE + GROUNDED AI</sub><br />
       <h3><a href="https://github.com/arjeetanand/PitchVoiceAI">🎙️ Pitchroom AI</a></h3>
-      Turn decks and work documents into a voice room. Ask questions, hear answers, and inspect the supporting slide, page, or section.<br /><br />
+      Talk to your decks and documents. Hear an answer, then see the exact slide, page, or section behind it.<br /><br />
       <sub>Python · Whisper · Kokoro · Document retrieval</sub>
     </td>
     <td width="50%" valign="top">
       <sub>02 / LLM EVALUATION</sub><br />
       <h3><a href="https://github.com/arjeetanand/PromptMesh">🧪 PromptMesh</a></h3>
-      Compare prompt versions across models, inspect scores and latency, generate test cases, and evolve prompts through feedback.<br /><br />
+      Put prompts through their paces: compare models, inspect scores and latency, generate tests, and improve with feedback.<br /><br />
       <sub>Python · FastAPI · Ollama · OCI GenAI · Cohere</sub>
     </td>
   </tr>
@@ -73,13 +51,13 @@ My approach: **keep the source visible, make the workflow clear, and give people
     <td width="50%" valign="top">
       <sub>03 / SPATIAL SIMULATION</sub><br />
       <h3><a href="https://github.com/arjeetanand/bengaluru-traffic-digital-twin">🚦 Bengaluru Traffic Digital Twin</a></h3>
-      A 3D Marathahalli corridor built from documented OpenStreetMap data, with traffic interventions and baseline/scenario comparisons. Results are modelled estimates.<br /><br />
+      Explore Marathahalli in 3D. Compare traffic interventions using documented OpenStreetMap data and explicitly modelled results.<br /><br />
       <sub>TypeScript · React · Three.js · React Three Fiber</sub>
     </td>
     <td width="50%" valign="top">
       <sub>04 / MARKET RESEARCH</sub><br />
       <h3><a href="https://github.com/arjeetanand/backtesting-stockmarket">📈 Backtrack</a></h3>
-      A local research workspace for official NSE historical data, strategy backtests, candle replay, and risk analysis. Research and simulated trades only.<br /><br />
+      Replay the market, test a strategy, and inspect the risk using official NSE historical data. Local research and simulated trades only.<br /><br />
       <sub>Python · FastAPI · Next.js · SQLite</sub>
     </td>
   </tr>
@@ -103,7 +81,29 @@ My approach: **keep the source visible, make the workflow clear, and give people
 
 <p align="center"><a href="https://github.com/arjeetanand?tab=repositories"><strong>Explore all repositories →</strong></a></p>
 
+## Highlights
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>01 / BUILDER AWARD</sub><br />
+      <strong>Razorpay × Replit Buildathon</strong><br />
+      Winner · Sprint Saturday · Bengaluru · Sep 2026<br /><br />
+      <a href="https://luma.com/z9i53l4x">Event details ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <sub>02 / ORACLE AI &amp; DATA SCIENCE</sub><br />
+      <strong>Co-author · <a href="https://blogs.oracle.com/ai-and-datascience/mcp-hybrid-rag-in-oracle-26ai">From Vector Index to MCP Tool</a></strong><br />
+      Building Hybrid RAG in Oracle Autonomous AI Database 26ai.<br /><br />
+      <a href="https://blogs.oracle.com/ai-and-datascience/mcp-hybrid-rag-in-oracle-26ai">Read the article ↗</a> · <a href="https://www.linkedin.com/posts/arjeetanand_from-vector-index-to-mcp-tool-from-vector-activity-7467621510829182976-lHSe">LinkedIn post ↗</a>
+    </td>
+  </tr>
+</table>
+
 ## Toolbox
+
+<details>
+<summary><strong>🧰 Open the toolbox · AI, backend, frontend, data, voice &amp; vision</strong></summary>
 
 | Area | Tools &amp; interests |
 | :--- | :--- |
@@ -113,7 +113,11 @@ My approach: **keep the source visible, make the workflow clear, and give people
 | Data &amp; platforms | SQLite · PostgreSQL · Redis · OCI · Autonomous AI Database 26ai |
 | Voice &amp; vision | Whisper · Kokoro · OpenCV |
 
-## 🕹️ Contribution arcade
+</details>
+
+## Contribution arcade
+
+<p align="center"><strong>🕹️ CODE → COMMIT → PLAY → REPEAT</strong></p>
 
 <p align="center"><strong>Every contribution is another move.</strong><br />
 <sub>My public GitHub activity, remixed into retro arcade animations.</sub></p>
@@ -151,6 +155,18 @@ My approach: **keep the source visible, make the workflow clear, and give people
 </details>
 
 <p align="center"><sub>Contribution snapshot · 17 October 2026 · Generated with <a href="https://github.com/Platane/snk">snk</a> and <a href="https://github.com/abozanona/pacman-contribution-graph">Arcade Contribution Graph</a></sub></p>
+
+<details>
+<summary><strong>⚡ Behind the build · Connected systems in motion</strong></summary>
+
+<p align="center">
+  <a href="https://github.com/arjeetanand/arjeetanand/blob/main/assets/connected-systems.mp4">
+    <img src="assets/connected-systems.gif" width="100%" alt="Apps, APIs, and data connect to an AI hub that powers insights, workflows, and automation." />
+  </a>
+</p>
+<p align="center"><sub>Click the animation to watch the full video ↗</sub></p>
+
+</details>
 
 ## Background
 

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 160" width="1200" height="160" role="img" aria-labelledby="title desc">
+  <title id="title">From context to intelligence to action</title>
+  <desc id="desc">Applications, documents, and data connect to models and agents, which power tools and workflows.</desc>
+  <style>
+    :root{--bg:#f6f8fa;--line:#d0d7de;--text:#1f2328;--muted:#59636e;--coral:#bb3d2c;--cyan:#087e96}
+    @media(prefers-color-scheme:dark){:root{--bg:#0d1117;--line:#30363d;--text:#f0f6fc;--muted:#9da7b3;--coral:#ff876b;--cyan:#5cdbef}}
+    text{font-family:ui-monospace,SFMono-Regular,Consolas,monospace;text-anchor:middle;fill:var(--text)}
+    .label{font-size:19px;font-weight:700;letter-spacing:3px}.sub{font-size:14px;fill:var(--muted)}
+    .signal{stroke:var(--coral);stroke-width:3;stroke-dasharray:9 160;animation:travel 4s linear infinite}
+    @keyframes travel{to{stroke-dashoffset:-338}}
+    @media(prefers-reduced-motion:reduce){.signal{animation:none}}
+  </style>
+  <rect x="1" y="1" width="1198" height="158" rx="14" fill="var(--bg)" stroke="var(--line)"/>
+  <path d="M333 80H437M762 80H866" stroke="var(--line)" stroke-width="2"/>
+  <path class="signal" d="M333 80H437M762 80H866" fill="none"/>
+  <path d="m429 75 8 5-8 5m429-10 8 5-8 5" fill="none" stroke="var(--coral)" stroke-width="2"/>
+  <text class="label" x="190" y="73">CONTEXT</text><text class="sub" x="190" y="103">Apps · Docs · Data</text>
+  <text class="label" x="600" y="73" style="fill:var(--cyan)">INTELLIGENCE</text><text class="sub" x="600" y="103">Models · Agents · RAG</text>
+  <text class="label" x="1010" y="73" style="fill:var(--coral)">ACTION</text><text class="sub" x="1010" y="103">Tools · Workflows · Products</text>
+</svg>
