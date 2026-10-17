@@ -113,6 +113,45 @@ My approach: **keep the source visible, make the workflow clear, and give people
 | Data &amp; platforms | SQLite · PostgreSQL · Redis · OCI · Autonomous AI Database 26ai |
 | Voice &amp; vision | Whisper · Kokoro · OpenCV |
 
+## 🕹️ Contribution arcade
+
+<p align="center"><strong>Every contribution is another move.</strong><br />
+<sub>My public GitHub activity, remixed into retro arcade animations.</sub></p>
+
+### 🐍 Level 01 · Feed the snake
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/arcade/contributions-static.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/arcade/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/arcade/snake.svg" />
+  <img width="100%" alt="A coral snake eats Arjeet Anand’s GitHub contribution grid." src="assets/arcade/snake.svg" />
+</picture>
+
+<details>
+<summary><strong>👾 Unlock bonus levels · Pac-Man + Galaga</strong></summary>
+
+### 👻 Level 02 · Chase the commits
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/arcade/contributions-static.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/arcade/pacman-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/arcade/pacman.svg" />
+  <img width="100%" alt="Pac-Man eats contribution dots while ghosts chase through Arjeet Anand’s activity grid." src="assets/arcade/pacman.svg" />
+</picture>
+
+### 🚀 Level 03 · Contributions in the crosshairs
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/arcade/contributions-static.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/arcade/galaga-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/arcade/galaga.svg" />
+  <img width="100%" alt="A Galaga-style spaceship shoots through Arjeet Anand’s contribution grid." src="assets/arcade/galaga.svg" />
+</picture>
+
+</details>
+
+<p align="center"><sub>Contribution snapshot · 17 October 2026 · Generated with <a href="https://github.com/Platane/snk">snk</a> and <a href="https://github.com/abozanona/pacman-contribution-graph">Arcade Contribution Graph</a></sub></p>
+
 ## Background
 
 B.Tech. in Electronics and Communication Engineering · Vellore Institute of Technology · 2020–2024
