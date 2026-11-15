@@ -36,7 +36,7 @@ Hey, I’m **Arjeet** 👋 — an **AI/ML Engineer at Oracle**. I connect applic
   <tr>
     <td width="50%" valign="top">
       <sub>01 / VOICE + GROUNDED AI</sub><br />
-      <h3><a href="https://github.com/arjeetanand/PitchVoiceAI">🎙️ Pitchroom AI</a></h3>
+      <h3><a href="https://github.com/arjeetanand/Briefly">🎙️ Pitchroom AI</a></h3>
       Talk to your decks and documents. Hear an answer, then see the exact slide, page, or section behind it.<br /><br />
       <sub>Python · Whisper · Kokoro · Document retrieval</sub>
     </td>
